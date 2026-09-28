@@ -6,6 +6,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=header&text=Saoussan&fontSize=52&fontColor=ffffff&fontAlignY=65&desc=Data%20Scientist%20·%20ML%20·%20Analytics&descSize=18&descAlignY=85&descFontColor=c4b5fd" width="100%"/>
 
+![Visitors](https://komarev.com/ghpvc/?username=Suzann-el&color=7c3aed&style=flat-square&label=Visiteurs)
+
 </div>
 
 ---
@@ -33,11 +35,21 @@ profile = {
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suzann-el&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=60a5fa&text_color=e2e8f0&rank_icon=github)
+> *« Les données ne mentent pas —*
+> *c'est leur interprétation qui fait la différence. »*
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suzann-el&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0)
+**🔭 En ce moment**
+
+```
+▸ MedRisk        — modélisation du risque médical
+▸ CDI recherché  — Data Science / Analytics · Paris
+```
+
+<br>
+
+![Visitors](https://komarev.com/ghpvc/?username=Suzann-el&color=a78bfa&style=for-the-badge&label=Profil+vu)
 
 </td>
 </tr>
@@ -86,11 +98,17 @@ profile = {
 | **Prêt à Dépenser** | Credit scoring avec modèle LightGBM déployé via API FastAPI + dashboard Streamlit | `LightGBM` `FastAPI` `Streamlit` `Render` | [→ Repo](https://github.com/Suzann-el/Scoring) |
 | **Fruits!** | Pipeline Big Data de classification d'images à grande échelle | `PySpark` `AWS` `MobileNet` `PCA` | [→ Repo](https://github.com/Suzann-el/DEPLOIEMENT-D-UN-MODELE-DANS-LE-CLOUD-) |
 | **TripSense** | Agent LLM avec outils météo / devises / distances — déployé sur Render & Streamlit Cloud | `Claude API` `Tool Use` `Streamlit` | [→ Repo](https://github.com/Suzann-el/LLM_Agentique-TripSense) |
-| **MedRisk** | Modélisation du risque médical | `scikit-learn` `Python` | [→ Repo](https://github.com/Suzann-el/MedRisk) |
-
-
+| **MedRisk** 🔄 | Modélisation du risque médical *(en cours)* | `scikit-learn` `Python` | [→ Repo](https://github.com/Suzann-el/MedRisk) |
 
 ---
+
+### 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suzann-el/Suzann-el/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suzann-el/Suzann-el/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Suzann-el/Suzann-el/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 ---
 
