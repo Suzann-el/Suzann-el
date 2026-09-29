@@ -24,8 +24,8 @@ Mes terrains de jeu : crédit scoring, assurance, santé, NLP et agents LLM.
 
 ```python
 profile = {
-    "localisation" : "Paris, France 🇫🇷",
-    "langues"      : ["Arabe 🇲🇦", "Français", "English"],
+    "localisation" : "Paris, France ",
+    "langues"      : [ "Français", "English", "Arabe "],
     "passion"      : "Transformer des données brutes en décisions claires"
 }
 ```
