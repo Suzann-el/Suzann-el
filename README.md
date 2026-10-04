@@ -113,7 +113,7 @@ profile = {
 | **Prêt à Dépenser** | Credit scoring LightGBM déployé via API FastAPI + dashboard Streamlit | `LightGBM` `FastAPI` `Streamlit` `Render` | [→ Repo](https://github.com/Suzann-el/Scoring) |
 | **Fruits!** | Pipeline Big Data de classification d'images à grande échelle | `PySpark` `AWS` `MobileNet` `PCA` | [→ Repo](https://github.com/Suzann-el/DEPLOIEMENT-D-UN-MODELE-DANS-LE-CLOUD-) |
 | **TripSense** | Agent LLM avec outils météo / devises / distances — déployé sur Render & Streamlit Cloud | `Claude API` `Tool Use` `Streamlit` | [→ Repo](https://github.com/Suzann-el/LLM_Agentique-TripSense) |
-| **MedRisk** 🔄 | Modélisation du risque médical *(en cours)* | `scikit-learn` `Python` | [→ Repo](https://github.com/Suzann-el/MedRisk) |
+| **MedRisk** 🔄 | Modélisation du risque médical  | `scikit-learn` `Python` | [→ Repo](https://github.com/Suzann-el/MedRisk) |
 
 ---
 
