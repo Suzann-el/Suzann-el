@@ -68,6 +68,7 @@ profile = {
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=60a5fa)
 ![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=60a5fa)
 ![DAX](https://img.shields.io/badge/DAX-0d1117?style=for-the-badge&logo=powerbi&logoColor=f59e0b)
+![SAS](https://img.shields.io/badge/SAS-0d1117?style=for-the-badge&logo=sas&logoColor=60a5fa)
 
 **Machine Learning**
 
@@ -118,11 +119,12 @@ profile = {
 
 ### 📊 Ce que je sais faire concrètement
 
-🗄️ SQL & Entrepôts DuckDB · Snowflake · modèle en étoile · contrôles qualité
+🗄️ Python, SQL & Entrepôts DuckDB · Snowflake · SAS. modèle en étoile · contrôles qualité
 📊 BI & Reporting Power BI · DAX · dashboards HTML autonomes · exports CSV
 🤖 ML & Prévision LightGBM · XGBoost · SARIMA · Prophet · validation rolling-origin
 ☁️ Cloud & DevOps AWS · Docker · FastAPI · Render · Git
-🧩 Analyse métier Pont PVM · Pareto/ABC · segmentation FM · cross-selling
+🧩 Analyse métier Pont PVM · Pareto/ABC · segmentation RFM · cross-selling
+
 
 
 ---
