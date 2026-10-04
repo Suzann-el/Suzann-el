@@ -120,9 +120,13 @@ profile = {
 ### 📊 Ce que je sais faire concrètement
 
 🗄️ Python, SQL & Entrepôts DuckDB · Snowflake · SAS. modèle en étoile · contrôles qualité
+
 📊 BI & Reporting Power BI · DAX · dashboards HTML autonomes · exports CSV
+
 🤖 ML & Prévision LightGBM · XGBoost · SARIMA · Prophet · validation rolling-origin
+
 ☁️ Cloud & DevOps AWS · Docker · FastAPI · Render · Git
+
 🧩 Analyse métier Pont PVM · Pareto/ABC · segmentation RFM · cross-selling
 
 
