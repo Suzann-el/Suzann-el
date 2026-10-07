@@ -68,7 +68,7 @@ profile = {
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=60a5fa)
 ![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=60a5fa)
 ![DAX](https://img.shields.io/badge/DAX-0d1117?style=for-the-badge&logo=powerbi&logoColor=f59e0b)
-![SAS](https://img.shields.io/badge/SAS-0d1117?style=for-the-badge&logo=sas&logoColor=00a9e0)
+![SAS](https://img.shields.io/badge/SAS-0d1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAyMCI+PHRleHQgeD0iMCIgeT0iMTUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiMwMEE5RTAiPlNBUzwvdGV4dD48L3N2Zz4=)
 
 **Machine Learning — Supervisé**
 
@@ -107,13 +107,13 @@ profile = {
 ![DuckDB](https://img.shields.io/badge/DuckDB-0d1117?style=for-the-badge&logo=duckdb&logoColor=f59e0b)
 ![Snowflake](https://img.shields.io/badge/Snowflake-0d1117?style=for-the-badge&logo=snowflake&logoColor=29b5e8)
 ![PySpark](https://img.shields.io/badge/PySpark-0d1117?style=for-the-badge&logo=apachespark&logoColor=f59e0b)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=f59e0b)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAyMCI+PHRleHQgeD0iMCIgeT0iMTUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNGRjk5MDAiPkFXUzwvdGV4dD48L3N2Zz4=)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=f59e0b)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f97316)
 
 **Visualisation & BI**
 
-![PowerBI](https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=f59e0b)
+![PowerBI](https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PHJlY3QgeD0iMTQiIHk9IjAiIHdpZHRoPSI0IiBoZWlnaHQ9IjIwIiBmaWxsPSIjRjJDODExIi8+PHJlY3QgeD0iOCIgeT0iNCIgd2lkdGg9IjQiIGhlaWdodD0iMTYiIGZpbGw9IiNGMkM4MTEiIG9wYWNpdHk9Ii44NSIvPjxyZWN0IHg9IjIiIHk9IjgiIHdpZHRoPSI0IiBoZWlnaHQ9IjEyIiBmaWxsPSIjRjJDODExIiBvcGFjaXR5PSIuNyIvPjwvc3ZnPg==)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=60a5fa)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=34d399)
 
