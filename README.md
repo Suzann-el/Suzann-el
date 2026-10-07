@@ -68,15 +68,39 @@ profile = {
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=60a5fa)
 ![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=60a5fa)
 ![DAX](https://img.shields.io/badge/DAX-0d1117?style=for-the-badge&logo=powerbi&logoColor=f59e0b)
-![SAS](https://img.shields.io/badge/SAS-0d1117?style=for-the-badge&logo=sas&logoColor=60a5fa)
+![SAS](https://img.shields.io/badge/SAS-0d1117?style=for-the-badge&logo=sas&logoColor=00a9e0)
 
-**Machine Learning**
+**Machine Learning — Supervisé**
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=f97316)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logo=xgboost&logoColor=f97316)
 ![LightGBM](https://img.shields.io/badge/LightGBM-0d1117?style=for-the-badge&logo=lightgbm&logoColor=f97316)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=f97316)
+![SVM](https://img.shields.io/badge/SVM-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=f97316)
+![KNN](https://img.shields.io/badge/KNN-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=f97316)
+![Régression](https://img.shields.io/badge/Régression-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=f97316)
 ![Prophet](https://img.shields.io/badge/Prophet-0d1117?style=for-the-badge&logo=meta&logoColor=f97316)
-![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logo=mlflow&logoColor=f97316)
+
+**Machine Learning — Non supervisé & Data Mining**
+
+![Clustering](https://img.shields.io/badge/Clustering-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=a78bfa)
+![KMeans](https://img.shields.io/badge/K--Means-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=a78bfa)
+![DBSCAN](https://img.shields.io/badge/DBSCAN-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=a78bfa)
+![PCA](https://img.shields.io/badge/PCA-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=a78bfa)
+![Data Mining](https://img.shields.io/badge/Data%20Mining-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=a78bfa)
+
+**Deep Learning & Réseaux de neurones**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=ee4c2c)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ff6f00)
+![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=d00000)
+![CNN](https://img.shields.io/badge/CNN-0d1117?style=for-the-badge&logo=pytorch&logoColor=ee4c2c)
+![RNN / LSTM](https://img.shields.io/badge/RNN%20%2F%20LSTM-0d1117?style=for-the-badge&logo=pytorch&logoColor=ee4c2c)
+![MobileNet](https://img.shields.io/badge/MobileNet-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ff6f00)
+
+**MLOps & Expérimentation**
+
+![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logo=mlflow&logoColor=34d399)
 
 **Data Engineering & Cloud**
 
@@ -119,17 +143,21 @@ profile = {
 
 ### 📊 Ce que je sais faire concrètement
 
-🗄️ Python, SQL & Entrepôts DuckDB · Snowflake · SAS. modèle en étoile · contrôles qualité
+🗄️ **Python, SQL & Entrepôts** DuckDB · Snowflake · SAS · modèle en étoile · contrôles qualité
 
-📊 BI & Reporting Power BI · DAX · dashboards HTML autonomes · exports CSV
+📊 **BI & Reporting** Power BI · DAX · dashboards HTML autonomes · exports CSV
 
-🤖 ML & Prévision LightGBM · XGBoost · SARIMA · Prophet · validation rolling-origin
+🤖 **ML supervisé** Régression · Classification · Random Forest · SVM · KNN · XGBoost · LightGBM · validation rolling-origin
 
-☁️ Cloud & DevOps AWS · Docker · FastAPI · Render · Git
+🔍 **ML non supervisé & Data Mining** Clustering (K-Means, DBSCAN) · PCA · règles d'association · détection d'anomalies
 
-🧩 Analyse métier Pont PVM · Pareto/ABC · segmentation RFM · cross-selling
+🧠 **Deep Learning** Réseaux de neurones · CNN · RNN/LSTM · PyTorch · TensorFlow · Keras
 
+⏱️ **Prévision** SARIMA · Prophet · LightGBM · intervalles de confiance quantiles
 
+☁️ **Cloud & DevOps** AWS · Docker · FastAPI · Render · Git · MLflow
+
+🧩 **Analyse métier** Pont PVM · Pareto/ABC · segmentation RFM · cross-selling
 
 ---
 
